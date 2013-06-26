@@ -7,7 +7,7 @@ AUTHOR = "Zenoss"
 LICENSE = ""
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.zenoss']
 PACKAGES = ['ZenPacks', 'ZenPacks.zenoss', 'ZenPacks.zenoss.MSExchange']
-INSTALL_REQUIRES = ['ZenPacks.zenoss.WindowsMonitor', 'ZenPacks.zenoss.PySamba', 'Zenoss >= 2.2']
+INSTALL_REQUIRES = ['ZenPacks.zenoss.WindowsMonitor', 'ZenPacks.zenoss.PySamba']
 COMPAT_ZENOSS_VERS = ">= 2.2"
 PREV_ZENPACK_NAME = "MSExchange"
 # STOP_REPLACEMENTS
