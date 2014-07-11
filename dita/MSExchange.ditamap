@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "urn:pubid:zenoss.com:doctypes:dita:dtd:map" "map.dtd">
+<map>
+   <title>MSExchange</title>
+   <topicref href="topics/MSExchange.dita">
+      <topicref href="topics/MSExchange_ref-Prerequisites.dita"/>
+      <topicref href="topics/MSExchange_task-Enable-Monitoring.dita"/>
+      <topicref href="topics/MSExchange_ref-Daemons.dita"/>
+   </topicref>
+</map>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "urn:pubid:zenoss.com:doctypes:dita:dtd:reference" "reference.dtd">
+<reference id="reference_clj_g4g_tm">
+  <title>(MSExchange) Microsoft Exchange</title>
+  <shortdesc>The <zenpack>ZenPacks.zenoss.MSExchange</zenpack> ZenPack uses WMI to monitor Microsoft Exchange and related services.</shortdesc>
+  <refbody>
+   <section>
+     <note>This ZenPack is deprecated; see <xref keyref="reference-ZenPacks.zenoss.Microsoft.Windows"/>.</note>
+     <p>The ZenPack enables users to view graphs based on MS Exchange Performance Counters and to
+       monitor processes related to MS Exchange. </p>
+   </section>
+  </refbody>
+</reference>
